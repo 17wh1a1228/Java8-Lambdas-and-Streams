@@ -1,6 +1,6 @@
 package com.maven.java8_lambdas_streams;
 
-import java. util.*;
+import java.util.*;
 
 public class Average {
 	
